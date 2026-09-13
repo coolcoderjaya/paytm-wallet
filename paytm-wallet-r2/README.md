@@ -430,5 +430,5 @@ The exercise was deployed using free-tier resources.
 A short design summary covering the data model, concurrency mechanism, rejected alternatives, idempotency, consistency trade-offs, AI usage, and cost is available in:
 
 ```text
-docs/WRITEUP.md
+docs/Paytm Wallet R2 — One-Page Engineering Design.pdf
 ```
