@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.paytm.wallet.TransferConcurrencyTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.574 s -- in com.paytm.wallet.TransferConcurrencyTest
